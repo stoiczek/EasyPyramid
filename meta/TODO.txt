@@ -1,0 +1,3 @@
+- fill properly setup.py
+- rename the std alchemy scaffold
+- test it
